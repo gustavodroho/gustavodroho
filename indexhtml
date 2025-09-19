@@ -20,7 +20,7 @@
         <select id="tema">
           <option value="jogo">jogo</option>
           <option value="desenho">desenho</option>
-          <option value="coelho">coelho</option>
+          <option value="UFC">UFC</option>
           <option value="musica">musica</option>
         </select>
       </section>
@@ -76,19 +76,23 @@
          autor: "Guy Hatfield, James Cocozza", 
          url: https://youtu.be/8X2kIfS6fb8?feature=shared
         },
-        { titulo: "DEUS DE PROMESSAS", 
-         autor: "MINISTÉRIO APASCENTAR", 
-         url: "https://youtu.be/93XkdakMp00?si=-S0mta76Kc_GxWhd" 
+        { titulo: "MORTAL KOMBAT", 
+         autor: "Official WB Games Channels", 
+         url: "https://youtu.be/UoTams2yc0s?feature=shared" 
         },
-        { titulo: "NINGUÉM EXPLICA DEUS", 
-         autor: "PRETO NO BRANCO", 
-         url: "https://youtu.be/LYsaKn8FRhc?si=R7yN3htfuafehfSw" 
+        { titulo: "Assassin's Creed Valhalla", 
+         autor: "Ubisoft Brasil", 
+         url: ""https://youtu.be/TUbgBVTD7VI?feature=shared 
         },
       ],
-      MENSAGENS: [
-        { titulo: "O TEMPO É CURTO; FAÇA O MELHOR USO DO SEU TEMPO", 
-         autor: "BILLY GRAHAM EM PORTUGUÊS", 
-         url: "https://youtu.be/fmsAqGy2pCM?si=u8aCy5Lwjoj80xAB" 
+      Desenho: [
+        { titulo: "Cyberpunk: Mercenários", 
+         autor: "Netflix Brasil", 
+         url:"https://youtu.be/25XGPHY1TMM?feature=shared" 
+       },
+       { titulo: "SOY UNA TAZA", 
+         autor: "CANTA JUEGO", 
+         url: "https://youtu.be/cgEnBkmcpuQ?si=paA3pkAIp3lgAmjQ" 
         },
         { titulo: "QUEM É JESUS CRISTO?", 
          autor: "BILLY GRAHAM EM PORTUGUÊS", 
@@ -97,6 +101,10 @@
       ],
       INFANTIL: [
         { titulo: "SOY UNA TAZA", 
+         autor: "CANTA JUEGO", 
+         url: "https://youtu.be/cgEnBkmcpuQ?si=paA3pkAIp3lgAmjQ" 
+        },
+       { titulo: "SOY UNA TAZA", 
          autor: "CANTA JUEGO", 
          url: "https://youtu.be/cgEnBkmcpuQ?si=paA3pkAIp3lgAmjQ" 
         },
