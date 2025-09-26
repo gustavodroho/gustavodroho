@@ -90,37 +90,37 @@
          autor: "Netflix Brasil", 
          url:"https://youtu.be/25XGPHY1TMM?feature=shared" 
        },
-       { titulo: "SOY UNA TAZA", 
-         autor: "CANTA JUEGO", 
-         url: "https://youtu.be/cgEnBkmcpuQ?si=paA3pkAIp3lgAmjQ" 
+       { titulo: "O problema com os problemas | Rick & Morty | Adult Swim Brasil", 
+         autor: "Adult Swim Brasil", 
+         url: "https://youtu.be/NFjS1DJ5y28?feature=shared" 
         },
-        { titulo: "QUEM É JESUS CRISTO?", 
-         autor: "BILLY GRAHAM EM PORTUGUÊS", 
-         url: "https://youtu.be/6ATJ6avomUg?si=4_qlxZGejDlxVyz5" 
-        },
-      ],
-      INFANTIL: [
-        { titulo: "SOY UNA TAZA", 
-         autor: "CANTA JUEGO", 
-         url: "https://youtu.be/cgEnBkmcpuQ?si=paA3pkAIp3lgAmjQ" 
-        },
-       { titulo: "SOY UNA TAZA", 
-         autor: "CANTA JUEGO", 
-         url: "https://youtu.be/cgEnBkmcpuQ?si=paA3pkAIp3lgAmjQ" 
-        },
-        { titulo: "PEDRO, THIAGO, JOÃO NO BARQUINHO", 
-         autor: "3 PALAVRINHAS", 
-         url: "https://youtu.be/Tdwy3BZe61s?si=As38T49IC695wKE0" 
+        { titulo: "Bad Days 'Breaking Bad' Season 3 episode 8", 
+         autor: "Bad Days", 
+         url: "https://youtu.be/0MhWyJbdQMU?feature=shared" 
         },
       ],
-      AULAS: [
-        { titulo: "INTRODUÇÃO A JAVASCRIPT", 
-         autor: "TIGER CODES", 
-         url: "https://youtu.be/WRlfwBof66s?si=0o80ULtCNqjj-lU2" 
+      UFC: [
+        { titulo: "DESTAQUES DA LUTA Jake Paul x Mike Tyson 🥊 | ESPN Ringside", 
+         autor: "ESPN", 
+         url: "https://youtu.be/Aja2KfuoqGA?feature=shared" 
         },
-        { titulo: "HTML E CSS BÁSICO EM 5 MINUTOS", 
-         autor: "TIGER CODES", 
-         url: "https://www.youtube.com/watch?v=5Hn58p-hYC0" 
+       { titulo: "Brazilian Jiu-Jitsu vs. Sambo 🤯 Ruotolo vs. Kurzhev | Full Fight", 
+         autor: "ONE Championship", 
+         url: "https://youtu.be/0Dhp7Yw46ow?feature=shared" 
+        },
+        { titulo: "Don’t Mess With “The Iron Man” 😤 Rodtang’s Most Savage Moments", 
+         autor: "ONE Championship", 
+         url: "https://youtu.be/6o8_B1bspPs?feature=shared" 
+        },
+      ],
+      musica: [
+        { titulo: "BLACK SABBATH - "Iron Man" from The End ", 
+         autor: "Black Sabbath", 
+         url: "https://youtu.be/7-thChxjcVw?feature=shared" 
+        },
+        { titulo: "Slipknot - The Devil In I", 
+         autor: "Slipknot", 
+         url: "https://youtu.be/8Dic5RWvuOM?feature=shared" 
         },
       ],
     };
